@@ -1,0 +1,17 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A timestamp microservice built for the backend and api section of freeCodeCamp",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Chinaemerem Agomoh",
+  "license": "ISC"
+}
