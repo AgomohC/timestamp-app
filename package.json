@@ -10,7 +10,8 @@
     "nodemon": "^2.0.12"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "Chinaemerem Agomoh",
   "license": "ISC"
