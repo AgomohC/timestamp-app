@@ -19,11 +19,13 @@ A get request is made to <#api/:dateStr> where :dateStr is the date in YYYY-MM-D
   "unix": 1451001600000,
   "utc": "Fri, 25 Dec 2015 00:00:00 GMT"
 }
+```
 
-// if the date is invalid, the following json object is returned
+if the date is invalid, the following json object is returned
 
+```json
 {
-"error": "dateStr.toString()" }
+  "error": "dateStr.toString()"
 }
 ```
 
