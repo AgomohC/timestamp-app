@@ -1,16 +1,16 @@
 # Timestamp Microservice
 
-[femto-timestamp](#) is a simple full stack app that parses unix dates and YYYY-MM-DD formatted dated, and returns utc dates . This project idea was gotten from [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice).
+[femto-timestamp](https://femto-timestamp.glitch.me/) is a simple full stack app that parses unix dates and YYYY-MM-DD formatted dated, and returns utc dates . This project idea was gotten from [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice).
 
 ### Resources
 
 There is only one resource
 
-- Get date <#api/:dateStr>
+- Get date <https://femto-timestamp.glitch.me/api/:dateStr>
 
 #### Get date
 
-A get request is made to <#api/:dateStr> where :dateStr is the date in YYYY-MM-DD or utc format
+A get request is made to <https://femto-timestamp.glitch.me/api/:dateStr> where :dateStr is the date in YYYY-MM-DD or utc format
 
 ##### Sample return
 
